@@ -1,4 +1,8 @@
 <p align="center">
+  A fork of the original Django-shinobi, using a newer version of Pydantic which is compatible with python 3.14.
+</p>
+<hr>
+<p align="center">
   <a href="https://pmdevita.github.io/django-shinobi/"><img src="https://pmdevita.github.io/django-shinobi/img/logo-big.png"></a>
 </p>
 <p align="center">
